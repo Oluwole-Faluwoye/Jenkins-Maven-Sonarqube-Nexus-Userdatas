@@ -1,3 +1,10 @@
+Ubuntu 24.04
+
+T2.Large
+
+
+
+
 #!/bin/bash
 
 # Update package list
